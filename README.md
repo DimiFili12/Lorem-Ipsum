@@ -31,7 +31,7 @@ Steps for running the project at localhost:
 	
 	
 	
-Steps for first use of the project:
+Steps for the first use of the project:
 
 	1) Go to "Admin Page".
 	2) Log in as admin.    -    Username = "admin"  password = "admin"
